@@ -1,0 +1,31 @@
+[0.890s] Invoking command in '/home/user/ws_humble_urdf/src/urdf_py': PYTHONPATH=/home/user/ws_humble_urdf/build/urdf_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/user/ws_humble_urdf/install/urdf_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/urdf_py build --build-base /home/user/ws_humble_urdf/build/urdf_py/build install --record /home/user/ws_humble_urdf/build/urdf_py/install.log --single-version-externally-managed install_data
+[1.152s] running egg_info
+[1.153s] writing ../../build/urdf_py/urdf_py.egg-info/PKG-INFO
+[1.153s] writing dependency_links to ../../build/urdf_py/urdf_py.egg-info/dependency_links.txt
+[1.153s] writing entry points to ../../build/urdf_py/urdf_py.egg-info/entry_points.txt
+[1.154s] writing requirements to ../../build/urdf_py/urdf_py.egg-info/requires.txt
+[1.154s] writing top-level names to ../../build/urdf_py/urdf_py.egg-info/top_level.txt
+[1.155s] reading manifest file '../../build/urdf_py/urdf_py.egg-info/SOURCES.txt'
+[1.157s] writing manifest file '../../build/urdf_py/urdf_py.egg-info/SOURCES.txt'
+[1.157s] running build
+[1.157s] running build_py
+[1.157s] running install
+[1.158s] running install_lib
+[1.158s] creating /home/user/ws_humble_urdf/install/urdf_py/lib/python3.10/site-packages/urdf_py
+[1.158s] copying /home/user/ws_humble_urdf/build/urdf_py/build/lib/urdf_py/__init__.py -> /home/user/ws_humble_urdf/install/urdf_py/lib/python3.10/site-packages/urdf_py
+[1.159s] byte-compiling /home/user/ws_humble_urdf/install/urdf_py/lib/python3.10/site-packages/urdf_py/__init__.py to __init__.cpython-310.pyc
+[1.159s] running install_data
+[1.160s] creating /home/user/ws_humble_urdf/install/urdf_py/share/ament_index
+[1.160s] creating /home/user/ws_humble_urdf/install/urdf_py/share/ament_index/resource_index
+[1.160s] creating /home/user/ws_humble_urdf/install/urdf_py/share/ament_index/resource_index/packages
+[1.160s] copying resource/urdf_py -> /home/user/ws_humble_urdf/install/urdf_py/share/ament_index/resource_index/packages
+[1.160s] copying package.xml -> /home/user/ws_humble_urdf/install/urdf_py/share/urdf_py
+[1.160s] creating /home/user/ws_humble_urdf/install/urdf_py/share/urdf_py/launch
+[1.160s] copying launch/display.launch.py -> /home/user/ws_humble_urdf/install/urdf_py/share/urdf_py/launch
+[1.161s] creating /home/user/ws_humble_urdf/install/urdf_py/share/urdf_py/urdf
+[1.161s] copying urdf/model.urdf -> /home/user/ws_humble_urdf/install/urdf_py/share/urdf_py/urdf
+[1.161s] running install_egg_info
+[1.164s] Copying ../../build/urdf_py/urdf_py.egg-info to /home/user/ws_humble_urdf/install/urdf_py/lib/python3.10/site-packages/urdf_py-0.0.0-py3.10.egg-info
+[1.165s] running install_scripts
+[1.184s] writing list of installed files to '/home/user/ws_humble_urdf/build/urdf_py/install.log'
+[1.210s] Invoked command in '/home/user/ws_humble_urdf/src/urdf_py' returned '0': PYTHONPATH=/home/user/ws_humble_urdf/build/urdf_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/user/ws_humble_urdf/install/urdf_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/urdf_py build --build-base /home/user/ws_humble_urdf/build/urdf_py/build install --record /home/user/ws_humble_urdf/build/urdf_py/install.log --single-version-externally-managed install_data
